@@ -13,7 +13,9 @@ const helpers = {
     }
     return result
   },
+  p: 5566,
 }
 
 export const getValue = helpers.getValue2
 export const mapArray = helpers.mapArray
+export const p = helpers.p
